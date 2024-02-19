@@ -1,0 +1,163 @@
+{
+  "format_version": "1.1",
+  "package_name": "flutter/android/embedding_bundle",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "lib/LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "lib/activity-1.0.0.jar",
+      "size": 13164,
+      "hash": "E1IqaMeooazBdh5PItJkf1EL2KkfBpTBu-c3gsdFxYQC"
+    },
+    {
+      "name": "lib/annotation-1.2.0.jar",
+      "size": 29520,
+      "hash": "kCkmK93OEW5tAr5Jnkr9uiHyTCOQh7drO1fX6YtJCjYC"
+    },
+    {
+      "name": "lib/annotation-experimental-1.1.0.jar",
+      "size": 5751,
+      "hash": "-Lmrsfnz1Qglh2LJnrbOKMW5Y_8MmB44lEzVYZsIYycC"
+    },
+    {
+      "name": "lib/annotations-13.0.jar",
+      "size": 17536,
+      "hash": "rOKhDcji1f00kl7KwD5JiLLA-FFlDJS4zvSbob0RFHgC"
+    },
+    {
+      "name": "lib/collection-1.1.0.jar",
+      "size": 42953,
+      "hash": "YyoOVAdGHed0QJNSlA4pKikQN3JCB6eHggx32vfTO3IC"
+    },
+    {
+      "name": "lib/core-1.6.0.jar",
+      "size": 925183,
+      "hash": "Edv00VMYgDy4-xVZvB_ixRW_eCVrHD96HS95RvaYth4C"
+    },
+    {
+      "name": "lib/core-1.8.0.jar",
+      "size": 764020,
+      "executable": true,
+      "hash": "VSsdDC5K0QU0Q56V64TSJ6pvYqh9Jniea9LTKLpEJlUC"
+    },
+    {
+      "name": "lib/core-common-2.1.0.jar",
+      "size": 11257,
+      "hash": "_hI3vwKdBj5_Kf45rq9z73TIsKNlhIb8KdPFQyZlOIkC"
+    },
+    {
+      "name": "lib/core-runtime-2.0.0.jar",
+      "size": 5717,
+      "hash": "zbc3jtaN2WNddNACgwuNrdXXaDjKhAcc0OzvFLVSSy8C"
+    },
+    {
+      "name": "lib/customview-1.0.0.jar",
+      "size": 33627,
+      "hash": "MZ-QTV7kufqdTwdV_MhUmg3ZpXZRBkjj4xr-EMLPj8AC"
+    },
+    {
+      "name": "lib/fragment-1.1.0.jar",
+      "size": 175976,
+      "hash": "Cr01BqmvSXUtY4ybW37uiiR9Q4Mb5-XVxiyFhI_YRF4C"
+    },
+    {
+      "name": "lib/kotlin-stdlib-1.5.31.jar",
+      "size": 1505952,
+      "hash": "SADOrLLsC7mVmghxVLjjUxjq0epOujLUuxuXNCIqfmgC"
+    },
+    {
+      "name": "lib/kotlin-stdlib-common-1.5.31.jar",
+      "size": 198322,
+      "hash": "36KhjiawKDiO4ZaNGZv28Wb3N6twScJaXi2mFEBOIq0C"
+    },
+    {
+      "name": "lib/kotlin-stdlib-jdk7-1.5.30.jar",
+      "size": 22986,
+      "hash": "fOBAZG5rmvZiyWu7mIoa3NTJlINNQk4Wlg-nn_-Tgl0C"
+    },
+    {
+      "name": "lib/kotlin-stdlib-jdk8-1.5.30.jar",
+      "size": 16121,
+      "hash": "s6ygU5xYMmIjsH3HwKx5tah1uoDLke4WCeyJuze4mQ4C"
+    },
+    {
+      "name": "lib/kotlinx-coroutines-android-1.5.2.jar",
+      "size": 20229,
+      "hash": "hs-YkrC9Uwao9NetioI1b2FNx9UZ6zBjsIh9fCtAWSgC"
+    },
+    {
+      "name": "lib/kotlinx-coroutines-core-jvm-1.5.2.jar",
+      "size": 1481065,
+      "hash": "IxTEiqGjnAXBHzs4XN88VrF0XwZDFOT-q-zrwVcrOsEC"
+    },
+    {
+      "name": "lib/lifecycle-common-2.2.0.jar",
+      "size": 22003,
+      "hash": "Y4mNq_fP5exdfti4wlZMFCe-h24UlurZXCcDz1nTc0sC"
+    },
+    {
+      "name": "lib/lifecycle-common-java8-2.2.0.jar",
+      "size": 1015,
+      "hash": "oexjwbuXNEPLcx147DNsXiDn7jXInLsy02-SxVuwJUIC"
+    },
+    {
+      "name": "lib/lifecycle-livedata-2.0.0.jar",
+      "size": 10245,
+      "hash": "SyeLeE0HGKM8Z38Y6f9QsETsAymi4dXZ-Tptio9vx2cC"
+    },
+    {
+      "name": "lib/lifecycle-livedata-core-2.0.0.jar",
+      "size": 8645,
+      "hash": "UKRFT0H8DiP4xylxDusL9I1Cf8G8DBMTlu1iQUCVJ4UC"
+    },
+    {
+      "name": "lib/lifecycle-runtime-2.2.0.jar",
+      "size": 10090,
+      "hash": "MDTnF9jaRIQtu2MJW4xmttUHS2Lr0SIAB75_A2_VI88C"
+    },
+    {
+      "name": "lib/lifecycle-viewmodel-2.1.0.jar",
+      "size": 9126,
+      "hash": "QDEuZaiNnSVQ2akJaAhw1FIyCMbrxKi-EyJrwgvaGncC"
+    },
+    {
+      "name": "lib/loader-1.0.0.jar",
+      "size": 35177,
+      "hash": "H3Wzy3liE2LDua26fT-Y64HM7DyeCSe-27l1dcVTd1EC"
+    },
+    {
+      "name": "lib/savedstate-1.0.0.jar",
+      "size": 9744,
+      "hash": "sXf2-mNRikD4zTo2UjDcifhttXd_ntoUE-7OdmECrv0C"
+    },
+    {
+      "name": "lib/tracing-1.0.0.jar",
+      "size": 3696,
+      "hash": "8U-nhk8aYbuabi_p_68fkR8DpE_10GFyse-Es-wwotkC"
+    },
+    {
+      "name": "lib/versionedparcelable-1.1.1.jar",
+      "size": 31906,
+      "hash": "RzPOavuxx5QZia5YHKe_woklwK_I-Rw-X18FANpsn4MC"
+    },
+    {
+      "name": "lib/viewpager-1.0.0.jar",
+      "size": 55298,
+      "hash": "FPdCnP-fL1BCGjayN6HeNdiiyN7_y-HgFjxuUaLe_lYC"
+    },
+    {
+      "name": "lib/window-1.0.0-beta04.jar",
+      "size": 145263,
+      "hash": "EDw6q_eMFDBDE7mcxaVqjHyfxR70wtgnDIgpSW2HL44C"
+    },
+    {
+      "name": "lib/window-java-1.0.0-beta04.jar",
+      "size": 6294,
+      "hash": "hbJxLe4WW3nE3Zf3bJKCid-YDVOpE8KURhnP7_KuLWEC"
+    }
+  ]
+}

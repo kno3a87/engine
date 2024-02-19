@@ -1,0 +1,31 @@
+{
+  "format_version": "1.1",
+  "package_name": "flutter/web/canvaskit_bundle",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "canvaskit/canvaskit.js",
+      "size": 127640,
+      "writable": true,
+      "hash": "XQvPXhFOH90wmQERy64sTjxpmMR7FiCrRK2AynJszHsC"
+    },
+    {
+      "name": "canvaskit/canvaskit.wasm",
+      "size": 6836229,
+      "writable": true,
+      "hash": "Kp4wFT-SBstd_fwORPGg3Mn6gXwt3_mzZzqVc89meyIC"
+    },
+    {
+      "name": "canvaskit/profiling/canvaskit.js",
+      "size": 247815,
+      "writable": true,
+      "hash": "vinULb-9We5eq6SEPYCpu_YjicFxEIJwn31a8S0LdsIC"
+    },
+    {
+      "name": "canvaskit/profiling/canvaskit.wasm",
+      "size": 8994456,
+      "writable": true,
+      "hash": "Ssw-ecJ2FxXFe5aVbzJL21lX0qkkTcR3EhC8Uk6S_QcC"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "subdir": "src/flutter/prebuilts/macos-arm64/dart-sdk",
+  "package_name": "flutter/dart-sdk/mac-arm64"
+}

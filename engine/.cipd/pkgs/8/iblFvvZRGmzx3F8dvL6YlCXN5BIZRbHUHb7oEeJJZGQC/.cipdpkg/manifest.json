@@ -1,0 +1,27 @@
+{
+  "format_version": "1.1",
+  "package_name": "flutter/android/google-java-format",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "LICENSE",
+      "size": 14363,
+      "hash": "yaSLpLDskLijV_Mk3KGF7rEFxo8UsWFzCpCG5ceZMzIC"
+    },
+    {
+      "name": "README.md",
+      "size": 730,
+      "hash": "mRkqNs3P479s3MuJuXDfwmzkTs71MXqlpar5NuorUKoC"
+    },
+    {
+      "name": "cipd.yaml",
+      "size": 273,
+      "hash": "MsRRGmuPRxoOLUokZn09tvebalQt3LmPFaXypMDpxw8C"
+    },
+    {
+      "name": "google-java-format-1.7-all-deps.jar",
+      "size": 6093741,
+      "hash": "CJTuAgGe6LSs1t8J-1C6xHLnGZ4aXwQfjaWNCHMGlKoC"
+    }
+  ]
+}

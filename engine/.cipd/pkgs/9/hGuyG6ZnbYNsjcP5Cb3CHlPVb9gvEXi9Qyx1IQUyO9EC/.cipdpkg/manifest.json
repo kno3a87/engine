@@ -1,0 +1,13 @@
+{
+  "format_version": "1.1",
+  "package_name": "perfetto/trace_to_text/mac-arm64",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "trace_to_text",
+      "size": 5661424,
+      "executable": true,
+      "hash": "-7bSVsls3ClvL67Cll0WoVJ8SQDmajOsqXn_HDNqny8C"
+    }
+  ]
+}

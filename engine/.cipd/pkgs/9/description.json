@@ -1,0 +1,4 @@
+{
+  "subdir": "src/third_party/android_tools/trace_to_text",
+  "package_name": "perfetto/trace_to_text/mac-arm64"
+}

@@ -1,0 +1,4 @@
+{
+  "subdir": "src/third_party/google_fonts_for_unit_tests",
+  "package_name": "flutter/flutter_font_fallbacks"
+}

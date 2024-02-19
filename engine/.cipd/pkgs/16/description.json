@@ -1,0 +1,4 @@
+{
+  "subdir": "src/third_party/gradle",
+  "package_name": "flutter/gradle"
+}
